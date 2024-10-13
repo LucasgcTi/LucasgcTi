@@ -3,7 +3,7 @@
 ### Olá! Eu sou Lucas Gomes da Cunha 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gomes-da-cunha-780825270/)
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/lucas_g.c/profilecard/?igsh=MTF4YmtmNTkzNjI2MA%3D%3D))
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasgcTi&show_icons=true&theme=dracula)
 
