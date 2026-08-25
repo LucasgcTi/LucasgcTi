@@ -1,10 +1,10 @@
 ## Lucas Gomes
 
-Olá, meu nome é Lucas, sou estudante do [Instituto Federal ](https://www.ifspcjo.edu.br/) de Campos do Jordão - IFSPCJO, gosto muito de aprender e desenvolver softwares. 
+Hello, my name is Lucas, I am a student at [Instituto Federal ](https://www.ifspcjo.edu.br/) from Campos do Jordão - IFSPCJO, I really enjoy learning about and developing software. 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LucasgcTi&theme=radical&hide_border=true)
 
-#### Tecnologias
+#### Technologies
 
 ![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -12,7 +12,7 @@ Olá, meu nome é Lucas, sou estudante do [Instituto Federal ](https://www.ifspc
 ![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Ferramentas
+#### Tools
 
 ![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
