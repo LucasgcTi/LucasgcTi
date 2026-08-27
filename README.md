@@ -4,10 +4,12 @@ Hello, my name is Lucas, I am a student at [Instituto Federal ](https://www.ifsp
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LucasgcTi&theme=radical&hide_border=true)
 
-<div align="center">
+#### Instagram
+
+<div>
   <h3>Destaque do Instagram</h3>
   <a href="https://www.instagram.com/p/Dcjg8iNG5Pp/?utm_source=ig_web_button_share_sheet&igsi=MzRlODBiNWFlZA==" target="_blank">
-    <img src="https://www.instagram.com/p/Dcjg8iNG5Pp/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==" width="320" alt="Post do Instagram" /><br />
+    <img src="./assets/1.png" width="320" alt="Post do Instagram sobre Lógica de Programação" /><br />
     <sub>Clique aqui para ver a publicação completa</sub>
   </a>
 </div>
