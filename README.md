@@ -1,17 +1,11 @@
 ## Lucas Gomes
 
-Hello, my name is Lucas, I am a student at [Instituto Federal ](https://www.ifspcjo.edu.br/) from Campos do Jordão - IFSPCJO, I really enjoy learning about and developing software. 
+> Hello, my name is Lucas, I am a student at [Instituto Federal ](https://www.ifspcjo.edu.br/) from Campos do Jordão - IFSPCJO, I really enjoy learning about and developing software. 
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LucasgcTi&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FF0000&currFire=FF0000&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&hide_border=true)
 
-#### Instagram
-
-<div>
-  <h3>Destaque do Instagram</h3>
-  <a href="https://www.instagram.com/p/Dcjg8iNG5Pp/?utm_source=ig_web_button_share_sheet&igsi=MzRlODBiNWFlZA==" target="_blank">
-    <img src="./assets/1.png" width="320" alt="Post do Instagram sobre Lógica de Programação" /><br />
-    <sub>Clique aqui para ver a publicação completa</sub>
-  </a>
 </div>
 
 #### Technologies
@@ -32,3 +26,18 @@ Hello, my name is Lucas, I am a student at [Instituto Federal ](https://www.ifsp
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gomes-da-cunha-780825270/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomesc.dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgomescunha132@gmail.com)
+
+
+
+#### Instagram
+
+<div>
+  <h3>Destaque do Instagram</h3>
+  <a href="https://www.instagram.com/p/Dcjg8iNG5Pp/?utm_source=ig_web_button_share_sheet&igsi=MzRlODBiNWFlZA==" target="_blank">
+    <img src="./assets/1.png" width="320" alt="Post do Instagram sobre Lógica de Programação" /><br />
+    <sub>Clique aqui para ver a publicação completa</sub>
+  </a>
+</div>
+
+
+---
