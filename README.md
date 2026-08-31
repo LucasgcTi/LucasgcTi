@@ -2,7 +2,7 @@
 
 Hello, my name is Lucas, I am a student at [Instituto Federal ](https://www.ifspcjo.edu.br/) from Campos do Jordão - IFSPCJO, I really enjoy learning about and developing software. 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=LucasgcTi&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LucasgcTi&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FF0000&currFire=FF0000&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&hide_border=true)
 
 #### Instagram
 
